@@ -1,7 +1,7 @@
 ## Hi, I'm Harry 👋
 
-- 🔭 I’m currently working on completing my journey in programming with Alx Africa
-- 🌱 I’m currently learning Python
+- 🔭 I have completed 100 days of Code with Angela Yu on Udemy and currently building my professional portfolio
+- 🌱 I learnt the Python programming language
 - 👯 I’m looking to collaborate on this journey and foster a sense of community to address complex challenges such as climate change, global health crises, and social inequality
 - 🤔 I’m looking for help with all resources to make me a seasoned Programmer to solve identifiable Global issues
 - 💬 Ask me about anything even outside of programming
